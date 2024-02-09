@@ -1,5 +1,5 @@
 ### Hi there, my name is Arkadiusz👋
-- 🔭 I’m currently working as a Software Test Engineer in Lionbridge Poland, testing videogames
+- 🔭 I’m currently working as a Software Test Engineer in Lionbridge Poland, testing video games
 - 🌱 I’m currently learning API testing and test automation in Playwright with JavaScript
 - 🤔 I’m looking for help with finding a software tester role in software testing (non games)
 - 📫 How to reach me: at.adamowicz@gmail.com
@@ -9,7 +9,7 @@
 
 ## Why testing?
 
-I always loved exploring and finding loopholes in applications, websites, videogames, board games. My knack for understanding rules and spotting flaws led me neturally into testing.
+I always loved exploring and finding loopholes in applications, websites, video games, board games. My knack for understanding rules and spotting flaws led me naturally into testing.
 
 ## Experience
 

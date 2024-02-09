@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning API testing and test automation in Playwright with JavaScript
 - 🤔 I’m looking for help with finding a software tester role in software testing (non games)
 - 📫 How to reach me: at.adamowicz@gmail.com
-- ⚡ Fun fact: I switched my videogame hobby with programming and learning Web Development & Testing one year ago and I love it!
+- ⚡ Fun fact: I switched my videogame hobby with programming and learning Web Development and I love it!
 
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arkadiusz-adamowicz-904827250/)
 
